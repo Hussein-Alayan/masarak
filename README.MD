@@ -119,7 +119,7 @@ This project is for educational and personal use. For commercial use, please che
 ---
 
 ## Credits
-
+- Developed by Hussein Alayan – Concept, design, and implementation of the AI Job Matcher app
 - Lottie animations from [lottiefiles.com](https://lottiefiles.com/)
 - Job data from LinkedIn and Bayt via Google Custom Search
 - AI powered by Google Gemini
