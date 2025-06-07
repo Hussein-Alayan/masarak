@@ -1,0 +1,8 @@
+
+# Requirements for the project
+
+streamlit
+streamlit-lottie
+python-dotenv
+PyMuPDF
+requests
